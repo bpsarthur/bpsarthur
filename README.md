@@ -9,7 +9,7 @@
 
 - 👀Já trabalhei em estilo freelancer web [Chaloé Cosméticos Site](https://www.chaloecosmeticos.com.br)
 
-- 💬 Presencialmente estou cursando **Técnico em administração**
+- 💬 terminei o **Técnico em administração** com duração de 1 ano, todo dia na parte noturna
 
 - 📫 Meu E-Mail **arthur.b.p.s@outlook.com.br**
 
