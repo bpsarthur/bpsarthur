@@ -5,7 +5,7 @@
 
 - 🌱 Estou atualmente aprendendo **Python pela Udemy e cybersecurity pelo SENAI-SP**
 
-- 🔭 Meu mais recente projeto é o [Educação360](https://github.com/bpsarthur/Educacao360)
+- 🔭 Meu mais recente projeto é o [Educação360](https://github.com/bpsarthur/Educacao360) e o [labratz](https://github.com/bpsarthur/labratz)
 
 - 👀Já trabalhei em estilo freelancer web [Chaloé Cosméticos Site](https://www.chaloecosmeticos.com.br)
 
