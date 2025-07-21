@@ -7,7 +7,7 @@
 
 - 🔭 Meu mais recente projeto é o [Educação360](https://github.com/bpsarthur/Educacao360) e o [labratz](https://github.com/bpsarthur/labratz)
 
-- 👀Já trabalhei em estilo freelancer web [Chaloé Cosméticos Site](https://www.chaloecosmeticos.com.br)
+- 👀Trabalhei como Pentester com contrato [Chaloé Cosméticos Site](https://www.chaloecosmeticos.com.br)
 
 - 💬 terminei o **Técnico em administração** com duração de 1 ano, todo dia na parte noturna
 
