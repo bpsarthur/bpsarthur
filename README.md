@@ -1,30 +1,126 @@
-<h1 align="center">Olá, sou o Arthur</h1>
-<h3 align="center">Bem-vindo ao meu perfil! Eu sou uma pessoa curiosa, prestativa e sempre em busca de aprender coisas novas. Atualmente, estou focado em aprimorar minhas habilidades em Python por meio de cursos online Também estou explorando o campo de segurança cibernética no Senai-SP.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bpsarthur&label=Profile%20views&color=0e75b6&style=plastic" alt="bpsarthur" /> </p>
+<h1>Arthur Berti Petersen Scholze</h1>
 
-- 🌱 Estou atualmente aprendendo **Python pela Udemy e cybersecurity pelo SENAI-SP**
+<strong>Cibersegurança Ofensiva & Defensiva &nbsp;|&nbsp; Hardware Hacking RFID/NFC &nbsp;|&nbsp; AI-Powered Security</strong>
 
-- 🔭 Meu mais recente projeto é o [Educação360](https://github.com/bpsarthur/Educacao360) e o [labratz](https://github.com/bpsarthur/labratz)
+<br /><br />
 
-- 👀Trabalhei como Pentester com contrato [Chaloé Cosméticos Site](https://www.chaloecosmeticos.com.br)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bpsarthur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-berti-petersen-scholze-ab32a12b2/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:arthur.b.p.s@outlook.com.br)
 
-- 💬 terminei o **Técnico em administração** com duração de 1 ano, todo dia na parte noturna
+<img src="https://komarev.com/ghpvc/?username=bpsarthur&label=Profile%20views&color=0e75b6&style=plastic" alt="bpsarthur" />
 
-- 📫 Meu E-Mail **arthur.b.p.s@outlook.com.br**
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpsarthur&theme=dark" alt="bpsarthur" /></p>
+---
 
-<h3 align="left">Meios de me contactar:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arthur-berti-petersen-scholze-ab32a12b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur berti petersen scholze" height="30" width="40" /></a>
-<a href="https://instagram.com/bpsarthur_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bpsarthur_" height="30" width="40" /></a>
-</p>
+## Sobre mim
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+Profissional de cibersegurança ofensiva e defensiva com base no **Sul do Brasil (RS)**, atuando na **AUVP Capital**.
 
+- Aprovado no **Cybersecurity Verification Program (CVP) da Anthropic** — programa para profissionais de segurança legítimos que ajusta as salvaguardas do Claude para uso dual-use (exploração de vulnerabilidades, payloads, ferramentas ofensivas)
+- **Top 2%** no TryHackMe
+- Palestrante na **UNICRUZ** — identificação e análise prática de falhas de segurança em ambientes reais
+- Integro **IA (Claude via MCP)** ao workflow diário de cibersegurança
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpsarthur&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bpsarthur" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpsarthur&show_icons=true&theme=dracula&locale=en" alt="bpsarthur" /></p>
+## Reconhecimentos
+
+| Conquista | Detalhe |
+|---|---|
+| **Anthropic CVP** | Cybersecurity Verification Program — profissional verificado para uso dual-use |
+| **TryHackMe Top 2%** | Ranking global em plataforma de hacking prático |
+| **Palestrante UNICRUZ** | Palestra sobre falhas de segurança em ambientes reais |
+
+---
+
+## Stack & Áreas de Atuação
+
+### Ofensiva
+```
+Pentest / Red Team  ·  Bug Bounty  ·  Análise de Vulnerabilidades
+Burp Suite  ·  nuclei  ·  OWASP  ·  MITRE ATT&CK
+Desenvolvimento de payloads e exploração
+```
+
+### Hardware Hacking / RFID & NFC
+```
+Proxmark3 (Iceman fork) — uso avançado
+MIFARE Classic (Fudan FM11RF08, magic Gen1a/Gen2/CUID, backdoor Quarkslab 2024)
+T5577  ·  EM410x  ·  HID Prox  ·  Indala  ·  AWID  ·  Hitag
+EMV — Mastercard M/Chip Advance (CDA, ARQC, AIP)
+iClass  ·  PicoPass  ·  LEGIC Prime
+```
+
+### Blue Team / Defensiva
+```
+SIEM  ·  Wazuh  ·  Nessus  ·  Endpoint Security (EPM/MDM)
+IRP (Incident Response Plan)  ·  DRM (Dark Web Monitoring, Brand Protection)
+Compliance bancário
+```
+
+### Cloud & Infra
+```
+Azure (VNet, NSG, Key Vault, Bastion, Standard_D4s_v5)
+Linux (Debian, hardening)  ·  Bash scripting
+```
+
+### Desenvolvimento
+```
+Python (FastMCP, automação)    C (intermediário)
+Lua (scripts Proxmark)          Bash / scripting
+JavaScript / Node.js            MCP (Model Context Protocol)
+```
+
+---
+
+## Projetos em Destaque
+
+### Proxmark3 MCP Server
+Wrapper Python que expõe ~56 comandos do cliente Iceman como tools MCP (LF, HF, MIFARE, EMV, T55xx, scripts Lua/Python).  
+Integra Proxmark3 com Claude via stdio JSON-RPC, com autodetect via `pm3.bat` no Windows + ProxSpace.
+
+### Plano de Implementação de Segurança Corporativo
+Arquitetura em camadas: Endpoint → Wazuh → Nessus → IRP → DRM.
+
+### Análise EMV com Proxmark3
+Relatório técnico não-destrutivo de cartão Mastercard (CDA, ARQC online, AIP).
+
+### Sites Vulneráveis para Demo (Palestra UNICRUZ)
+SQLi · IDOR · XSS · MD5 · IDs sequenciais — usados em demonstrações ao vivo.
+
+---
+
+## IA em Cibersegurança
+
+> IA em cibersec não é futuro — é ferramenta diária.
+
+- **Anthropic CVP** — aprovado para uso dual-use (exploração, payloads, ferramentas ofensivas)
+- Desenvolvimento de MCP Servers para integrar ferramentas de segurança com Claude
+- Workflow diário com LLMs em análise ofensiva e defensiva
+
+---
+
+## Contato
+
+| Canal | Link |
+|---|---|
+| Email | [arthur.b.p.s@outlook.com.br](mailto:arthur.b.p.s@outlook.com.br) |
+| LinkedIn | [Arthur Berti Petersen Scholze](https://www.linkedin.com/in/arthur-berti-petersen-scholze-ab32a12b2/) |
+| TryHackMe | [bpsarthur](https://tryhackme.com/p/bpsarthur) |
+| GitHub | [bpsarthur](https://github.com/bpsarthur) |
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bpsarthur&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bpsarthur&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bpsarthur&theme=dark" alt="Streak Stats" />
+
+</div>
