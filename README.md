@@ -58,10 +58,10 @@ iClass  ·  PicoPass  ·  LEGIC Prime
 
 ### Blue Team / Defensiva
 ```
-Wazuh (SIEM) — desenho de arquitetura, integração com threat intel
-Nessus — vulnerability scanning
-ManageEngine Endpoint Central Security Edition — EPM, MDM, implementação e treinamento
-IRP (Incident Response Plan)  ·  Resecurity RISK™ (dark web, brand protection)
+SIEM — desenho de arquitetura, integração com threat intel
+Vulnerability scanning contínuo
+Endpoint Security (EPM, MDM) — implementação e treinamento
+IRP (Incident Response Plan)  ·  DRM (dark web, brand protection)
 Compliance em contexto bancário
 ```
 
@@ -100,8 +100,8 @@ MCP (Model Context Protocol) — desenvolvimento de servers customizados
 Arquitetura em camadas documentada e implementada:
 ```
 Endpoint Security (EPM/MDM)
-  └── Wazuh SIEM (threat intel integrado)
-        └── Nessus (vulnerability scanning contínuo)
+  └── SIEM (threat intel integrado)
+        └── Vulnerability scanning contínuo
               └── IRP (Incident Response Plan)
                     └── DRM (dark web + brand protection)
 ```
