@@ -97,23 +97,6 @@ Profissional de **cibersegurança ofensiva e defensiva**. Trabalho diário entre
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bpsarthur&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpsarthur&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-
-<img height="170" src="https://streak-stats.demolab.com/?user=bpsarthur&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=58a6ff&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/bpsarthur.png" alt="TryHackMe" />
-
-</div>
-
----
-
 <div align="center">
 
 > *"Segurança não é um produto, mas um processo."*
