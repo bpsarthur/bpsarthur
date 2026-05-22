@@ -96,18 +96,6 @@ MCP (Model Context Protocol) — desenvolvimento de servers customizados
 
 ---
 
-### Plano de Implementação de Segurança Corporativo
-Arquitetura em camadas documentada e implementada:
-```
-Endpoint Security (EPM/MDM)
-  └── SIEM (threat intel integrado)
-        └── Vulnerability scanning contínuo
-              └── IRP (Incident Response Plan)
-                    └── DRM (dark web + brand protection)
-```
-
----
-
 ### Análise EMV com Proxmark3
 Relatório técnico não-destrutivo de cartão Mastercard M/Chip Advance:
 - CDA (Combined Dynamic Data Authentication)
