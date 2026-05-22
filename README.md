@@ -9,6 +9,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bpsarthur)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-berti-petersen-scholze-ab32a12b2/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:arthur.b.p.s@outlook.com.br)
+[![Anthropic CVP](https://img.shields.io/badge/Anthropic-CVP%20Verified-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 
 <img src="https://komarev.com/ghpvc/?username=bpsarthur&label=Profile%20views&color=0e75b6&style=plastic" alt="bpsarthur" />
 
@@ -18,12 +19,12 @@
 
 ## Sobre mim
 
-Profissional de cibersegurança ofensiva e defensiva com base no **Sul do Brasil (RS)**, atuando na **AUVP Capital**.
+Profissional de cibersegurança ofensiva e defensiva com base no **Sul do Brasil (RS — Ibirubá)**, atuando na **AUVP Capital**.
 
-- Aprovado no **Cybersecurity Verification Program (CVP) da Anthropic** — programa para profissionais de segurança legítimos que ajusta as salvaguardas do Claude para uso dual-use (exploração de vulnerabilidades, payloads, ferramentas ofensivas)
-- **Top 2%** no TryHackMe
-- Palestrante na **UNICRUZ** — identificação e análise prática de falhas de segurança em ambientes reais
-- Integro **IA (Claude via MCP)** ao workflow diário de cibersegurança
+- Aprovado no **Cybersecurity Verification Program (CVP) da Anthropic** — um dos poucos profissionais verificados globalmente para uso dual-use com Claude (exploração de vulnerabilidades, payloads, ferramentas ofensivas)
+- **Top 2%** no TryHackMe — ranking global em plataforma de hacking prático
+- Palestrante na **UNICRUZ (Universidade de Cruz Alta)** — identificação e análise prática de falhas de segurança em ambientes reais
+- Integro **IA via MCP** ao workflow diário de cibersegurança — não como experimento, mas como ferramenta de produção
 
 ---
 
@@ -31,9 +32,9 @@ Profissional de cibersegurança ofensiva e defensiva com base no **Sul do Brasil
 
 | Conquista | Detalhe |
 |---|---|
-| **Anthropic CVP** | Cybersecurity Verification Program — profissional verificado para uso dual-use |
+| **Anthropic CVP** | Cybersecurity Verification Program — profissional verificado para uso dual-use (exploração, payloads, ferramentas ofensivas) |
 | **TryHackMe Top 2%** | Ranking global em plataforma de hacking prático |
-| **Palestrante UNICRUZ** | Palestra sobre falhas de segurança em ambientes reais |
+| **Palestrante UNICRUZ** | Palestra sobre identificação e análise de falhas de segurança em ambientes reais |
 
 ---
 
@@ -48,31 +49,36 @@ Desenvolvimento de payloads e exploração
 
 ### Hardware Hacking / RFID & NFC
 ```
-Proxmark3 (Iceman fork) — uso avançado
-MIFARE Classic (Fudan FM11RF08, magic Gen1a/Gen2/CUID, backdoor Quarkslab 2024)
+Proxmark3 (Iceman fork) — uso avançado para análise de cartões
+MIFARE Classic — Fudan FM11RF08, magic Gen1a / Gen2 / CUID, backdoor key Quarkslab 2024
 T5577  ·  EM410x  ·  HID Prox  ·  Indala  ·  AWID  ·  Hitag
-EMV — Mastercard M/Chip Advance (CDA, ARQC, AIP)
+EMV — Mastercard M/Chip Advance (CDA, ARQC online, AIP)
 iClass  ·  PicoPass  ·  LEGIC Prime
 ```
 
 ### Blue Team / Defensiva
 ```
-SIEM  ·  Wazuh  ·  Nessus  ·  Endpoint Security (EPM/MDM)
-IRP (Incident Response Plan)  ·  DRM (Dark Web Monitoring, Brand Protection)
-Compliance bancário
+Wazuh (SIEM) — desenho de arquitetura, integração com threat intel
+Nessus — vulnerability scanning
+ManageEngine Endpoint Central Security Edition — EPM, MDM, implementação e treinamento
+IRP (Incident Response Plan)  ·  Resecurity RISK™ (dark web, brand protection)
+Compliance em contexto bancário
 ```
 
 ### Cloud & Infra
 ```
-Azure (VNet, NSG, Key Vault, Bastion, Standard_D4s_v5)
+Azure — VNet, NSG, Key Vault, Bastion, Standard_D4s_v5
+AWS   — VPC, Security Groups, Secrets Manager, SSM Session Manager, EC2 m5/m6i
+Dimensionamento de infra, custos comparativos, Reserved Instances
 Linux (Debian, hardening)  ·  Bash scripting
 ```
 
 ### Desenvolvimento
 ```
-Python (FastMCP, automação)    C (intermediário)
-Lua (scripts Proxmark)          Bash / scripting
-JavaScript / Node.js            MCP (Model Context Protocol)
+Python (FastMCP, automação, integração com ferramentas)
+C (intermediário)              Lua (scripts Proxmark3)
+Bash / scripting               JavaScript / Node.js
+MCP (Model Context Protocol) — desenvolvimento de servers customizados
 ```
 
 ---
@@ -80,17 +86,39 @@ JavaScript / Node.js            MCP (Model Context Protocol)
 ## Projetos em Destaque
 
 ### Proxmark3 MCP Server
-Wrapper Python que expõe ~56 comandos do cliente Iceman como tools MCP (LF, HF, MIFARE, EMV, T55xx, scripts Lua/Python).  
-Integra Proxmark3 com Claude via stdio JSON-RPC, com autodetect via `pm3.bat` no Windows + ProxSpace.
+
+> Wrapper Python que expõe **~56 comandos** do cliente Iceman como tools MCP.
+
+- Cobre: LF, HF, MIFARE, EMV, T55xx, scripts Lua/Python
+- Integração com Claude via **stdio JSON-RPC**
+- Autodetect de device via `pm3.bat` no Windows + ProxSpace
+- Permite rodar análises de cartão e emissão de comandos Proxmark diretamente no contexto de uma conversa com o Claude
+
+---
 
 ### Plano de Implementação de Segurança Corporativo
-Arquitetura em camadas: Endpoint → Wazuh → Nessus → IRP → DRM.
+Arquitetura em camadas documentada e implementada:
+```
+Endpoint Security (EPM/MDM)
+  └── Wazuh SIEM (threat intel integrado)
+        └── Nessus (vulnerability scanning contínuo)
+              └── IRP (Incident Response Plan)
+                    └── DRM (dark web + brand protection)
+```
+
+---
 
 ### Análise EMV com Proxmark3
-Relatório técnico não-destrutivo de cartão Mastercard (CDA, ARQC online, AIP).
+Relatório técnico não-destrutivo de cartão Mastercard M/Chip Advance:
+- CDA (Combined Dynamic Data Authentication)
+- ARQC (online) com análise de Application Interchange Profile (AIP)
+- Mapeamento completo de tags EMV sem alteração do cartão
 
-### Sites Vulneráveis para Demo (Palestra UNICRUZ)
-SQLi · IDOR · XSS · MD5 · IDs sequenciais — usados em demonstrações ao vivo.
+---
+
+### Sites Vulneráveis para Demo — Palestra UNICRUZ
+Ambiente de demonstração ao vivo com falhas intencionais:
+`SQLi` · `IDOR` · `XSS` · `MD5 sem salt` · `IDs sequenciais`
 
 ---
 
@@ -99,8 +127,9 @@ SQLi · IDOR · XSS · MD5 · IDs sequenciais — usados em demonstrações ao v
 > IA em cibersec não é futuro — é ferramenta diária.
 
 - **Anthropic CVP** — aprovado para uso dual-use (exploração, payloads, ferramentas ofensivas)
-- Desenvolvimento de MCP Servers para integrar ferramentas de segurança com Claude
+- Desenvolvimento de **MCP Servers** para integrar ferramentas de segurança com Claude
 - Workflow diário com LLMs em análise ofensiva e defensiva
+- Acredito que o diferencial não é usar IA, é saber o que pedir pra ela e validar o que ela entrega
 
 ---
 
