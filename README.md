@@ -91,9 +91,6 @@ Profissional de **cibersegurança ofensiva e defensiva**. Trabalho diário entre
 | Projeto | Descrição |
 | --- | --- |
 | 📡 **Proxmark3 MCP Server** | Wrapper Python que expõe **~56 comandos** do cliente Iceman como tools MCP (LF, HF, MIFARE, EMV, T55xx, scripts Lua/Python). Integra o Proxmark3 ao Claude via stdio JSON-RPC, com autodetecção via `pm3.bat` (Windows + ProxSpace). |
-| 🏦 **Análise EMV — Mastercard M/Chip Advance** | Relatório técnico **não-destrutivo** de cartão de crédito com Proxmark3 (CDA, ARQC online, AIP). |
-| 🛡️ **Plano de Implementação de Segurança** | Arquitetura corporativa em camadas: Endpoint → Wazuh → Nessus → IRP → DRM. |
-| 📚 **Endpoint Central Security Edition** | Material de treinamento (13 módulos, 1 console, 1 agente — EPM/MDM). |
 
 ---
 
