@@ -42,7 +42,7 @@ Profissional de **cibersegurança ofensiva e defensiva**. Trabalho diário entre
 
 - 🤖 **Anthropic CVP** — Aprovado no *Cybersecurity Verification Program*, programa que ajusta as salvaguardas do Claude para profissionais de segurança legítimos em casos de uso dual-use (exploração de vulnerabilidades, payloads, ferramentas ofensivas).
 - 🎯 **Top 2% no [TryHackMe](https://tryhackme.com/p/bpsarthur)** — entre os melhores do mundo na plataforma.
-- 🎤 **Palestrante na UNICRUZ** — palestra sobre identificação e análise prática de falhas de segurança em ambientes reais (demos de SQLi, IDOR, XSS, MD5, IDs sequenciais).
+- 🎤 **Palestrante na UNICRUZ e também no IDCIBER (Institudo de Defesa CIBERnetica brasileiro)** — palestra sobre identificação e análise prática de falhas de segurança em ambientes reais (demos de SQLi, IDOR, XSS, MD5, IDs sequenciais).
 
 ---
 
@@ -62,13 +62,6 @@ Profissional de **cibersegurança ofensiva e defensiva**. Trabalho diário entre
 ![EMV](https://img.shields.io/badge/EMV%20(Mastercard%20M%2FChip)-eb001b?style=flat-square&logo=mastercard&logoColor=white)
 ![iClass](https://img.shields.io/badge/iClass%20%2F%20PicoPass-444444?style=flat-square)
 ![T5577](https://img.shields.io/badge/T5577%20%2F%20EM410x%20%2F%20HID-444444?style=flat-square)
-
-#### 🛡️ Blue Team / Defensiva
-![Wazuh](https://img.shields.io/badge/Wazuh%20SIEM-3F7AC4?style=flat-square&logo=wazuh&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00abe1?style=flat-square&logo=tenable&logoColor=white)
-![ManageEngine](https://img.shields.io/badge/ManageEngine%20EPM%2FMDM-d12d34?style=flat-square)
-![IRP](https://img.shields.io/badge/Incident%20Response-2c3e50?style=flat-square)
-![Resecurity](https://img.shields.io/badge/Resecurity%20DRM-0b3d91?style=flat-square)
 
 #### ☁️ Cloud & Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
